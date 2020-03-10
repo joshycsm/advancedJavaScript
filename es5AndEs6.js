@@ -20,12 +20,12 @@ const obj = {
   wizardLevel: false
 };
 
+const { player, experience } = obj;
+let { wizardLevel } = obj;
+
 const player = obj.player;
 const experience = obj.experience;
 let wizardLevel = obj.wizardLevel;
-
-const { player, experience } = obj;
-let { wizardLevel } = obj;
 
 // Another cool thing we can do with objects
 
