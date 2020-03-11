@@ -70,6 +70,8 @@ Object.entries(obj).map(value => {
 
 // major es8 feature!!! Async Await
 
+// blank need to understand how javascript works and also http/json/ajax/ + asynchronous javascript!
+
 
 // ES10 ES2019
 
@@ -100,6 +102,7 @@ const obj = Object.fromEntries(userProfiles)
 // allowed us to do the exact opposite thing....
 Object.entries(obj)
 
+// for es10 not forced to passed the parameter of error in you catch block or catch.
 try {
   bob + 'hi' // true + "hi" // 4 + 5
 } catch (error) {
